@@ -189,18 +189,20 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## How to Use
 
 1. **Clone the Repository**: Clone this project repository from GitHub.
-2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
+2. **Set Up the Database**: Run the SQL scripts provided in the `sql_retail_sales_p1.sql` file to create and populate the database.
+3. **Run the Queries**: Use the SQL queries provided in the `sql_retail_sales_p1.sql` file to perform your analysis.
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
-## Author - Zero Analyst
+## Author - Kashish Punjani
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-### Stay Updated and Join the Community
+### Contact
 
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
+For feedback, collaboration, or opportunities:
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/kashishpunjani/)
+- **GitHub: github.com/kashishpunjani**
+- **Email id : kashishpunjani8@gmail.com**
 
 Thank you for your support, and I look forward to connecting with you!
