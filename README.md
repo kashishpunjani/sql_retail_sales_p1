@@ -171,20 +171,20 @@ group by shift;
 
 ## Findings
 
-- **Customer Demographics**: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
-- **High-Value Transactions**: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
-- **Sales Trends**: Monthly analysis shows variations in sales, helping identify peak seasons.
-- **Customer Insights**: The analysis identifies the top-spending customers and the most popular product categories.
+- **Customer Demographics**: The dataset includes 155 unique customers across different age groups, with sales distributed across major categories such as Clothing, Beauty, and Electronics.
+- **High-Value Transactions**: Several transactions have a total sale amount greater than 1000, with some reaching up to 2000, indicating the presence of premium customers.
+- **Sales Trends**: Monthly analysis shows variations in sales, with peak performance in different months across years, indicating seasonal demand patterns.
+- **Customer Insights**: The analysis identifies top-spending customers, with the highest customer contributing around 38,440 in total sales, showing dependency on a small group of high-value buyers.
 
 ## Reports
 
-- **Sales Summary**: A detailed report summarizing total sales, customer demographics, and category performance.
-- **Trend Analysis**: Insights into sales trends across different months and shifts.
-- **Customer Insights**: Reports on top customers and unique customer counts per category.
+- **Sales Summary**: detailed analysis of total sales shows that Electronics, Clothing, and Beauty categories contribute almost equally to overall revenue, with slight variation in order volume.
+- **Trend Analysis**: Sales distribution across months and shifts shows that evening time has the highest order count (1062 orders), indicating peak shopping activity after working hours.
+- **Customer Insights**: Unique customer analysis shows that Clothing has the highest number of customers (149), followed by Electronics and Beauty.
 
 ## Conclusion
 
-This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+This project provides a foundational understanding of SQL for retail data analysis. It demonstrates how raw transactional data can be transformed into meaningful business insights using aggregation, filtering, and analytical queries. The analysis helps understand customer behavior, sales performance, and category trends, which are essential for business decision-making.
 
 ## How to Use
 
@@ -202,7 +202,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 For feedback, collaboration, or opportunities:
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/kashishpunjani/)
-- **GitHub: github.com/kashishpunjani**
+- **GitHub**: [github.com/kashishpunjani]
 - **Email id : kashishpunjani8@gmail.com**
 
 Thank you for your support, and I look forward to connecting with you!
