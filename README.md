@@ -34,7 +34,7 @@ CREATE TABLE retail_sales
 	gender VARCHAR(10),
 	age	INT,
 	category VARCHAR(20),
-	quantity	INT,
+	quantity INT,
 	price_per_unit INT,
 	cogs Float,
 	total_sale Float
