@@ -34,7 +34,7 @@ CREATE TABLE retail_sales
 	gender VARCHAR(10),
 	age	INT,
 	category VARCHAR(20),
-	quantiy	INT,
+	quantity	INT,
 	price_per_unit INT,
 	cogs Float,
 	total_sale Float
@@ -85,7 +85,7 @@ WHERE
 	and 
 	TO_CHAR(sale_date, 'YYYY-MM') = '2022-11'
 	and
-	quantiy >= 4
+	quantity >= 4
 ```
 
 3. **Write a SQL query to calculate the total sales (total_sale) for each category.**:
